@@ -1,0 +1,28 @@
+{
+  "kind": "singleType",
+  "collectionName": "header_navigations",
+  "info": {
+    "singularName": "header-navigation",
+    "pluralName": "header-navigations",
+    "displayName": "Header navigation"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "header_nav": {
+      "displayName": "Header nav",
+      "type": "component",
+      "repeatable": true,
+      "component": "header-nav.header-nav"
+    },
+    "logo": {
+      "allowedTypes": [
+        "images"
+      ],
+      "type": "media",
+      "multiple": false
+    }
+  }
+}

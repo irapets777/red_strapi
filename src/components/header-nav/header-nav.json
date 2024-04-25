@@ -1,0 +1,12 @@
+{
+  "collectionName": "components_header_nav_header_navs",
+  "info": {
+    "displayName": "Header nav"
+  },
+  "options": {},
+  "attributes": {
+    "menu_items": {
+      "type": "string"
+    }
+  }
+}
